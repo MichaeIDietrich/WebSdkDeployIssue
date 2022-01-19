@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp", "BlazorApp\BlazorApp.csproj", "{6962E0DB-256C-4B20-BA84-D5EC5FAE5691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerUI", "ServerUI\ServerUI.csproj", "{018CC8CD-C727-421B-99B6-758D3DE90592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHost", "WebHost\WebHost.csproj", "{E7CAA81C-51B9-493E-AE40-15C1F848E426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6962E0DB-256C-4B20-BA84-D5EC5FAE5691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6962E0DB-256C-4B20-BA84-D5EC5FAE5691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6962E0DB-256C-4B20-BA84-D5EC5FAE5691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6962E0DB-256C-4B20-BA84-D5EC5FAE5691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018CC8CD-C727-421B-99B6-758D3DE90592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018CC8CD-C727-421B-99B6-758D3DE90592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018CC8CD-C727-421B-99B6-758D3DE90592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018CC8CD-C727-421B-99B6-758D3DE90592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7CAA81C-51B9-493E-AE40-15C1F848E426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CAA81C-51B9-493E-AE40-15C1F848E426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CAA81C-51B9-493E-AE40-15C1F848E426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CAA81C-51B9-493E-AE40-15C1F848E426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80C60B52-D3EE-4D91-AAD6-AE6D0B780BE1}
+	EndGlobalSection
+EndGlobal
